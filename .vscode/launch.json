@@ -1,0 +1,42 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Debug (Launch) - Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Cliente<pessoal-exemplos-tcp-udp_4ce96d1f>",
+      "request": "launch",
+      "mainClass": "Cliente",
+      "projectName": "pessoal-exemplos-tcp-udp_4ce96d1f"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ClienteUDP<pessoal-exemplos-tcp-udp_4ce96d1f>",
+      "request": "launch",
+      "mainClass": "ClienteUDP",
+      "projectName": "pessoal-exemplos-tcp-udp_4ce96d1f"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Servidor<pessoal-exemplos-tcp-udp_4ce96d1f>",
+      "request": "launch",
+      "mainClass": "Servidor",
+      "projectName": "pessoal-exemplos-tcp-udp_4ce96d1f"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-ServidorUDP<pessoal-exemplos-tcp-udp_4ce96d1f>",
+      "request": "launch",
+      "mainClass": "ServidorUDP",
+      "projectName": "pessoal-exemplos-tcp-udp_4ce96d1f"
+    }
+  ]
+}
